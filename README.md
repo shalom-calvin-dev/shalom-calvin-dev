@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="Shalom Calvin - Software Engineer" width="100%">
+</p>
+
 # 👋 Hi, I'm Shalom Calvin
 
 **Software Engineer · Backend Development · Full Stack Development · Microsoft Power Platform**
