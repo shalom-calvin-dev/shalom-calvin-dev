@@ -75,6 +75,22 @@ Currently a **Software Engineer at Star Knowledge Ventures** (March 2023 – Pre
 
 ---
 
+## 📊 GitHub Statistics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shalom-calvin-dev&show_icons=true&theme=dark&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shalom-calvin-dev&show_icons=true&theme=default&hide_border=true&bg_color=00000000">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shalom-calvin-dev&show_icons=true&theme=default&hide_border=true&bg_color=00000000">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shalom-calvin-dev&layout=compact&theme=dark&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shalom-calvin-dev&layout=compact&theme=default&hide_border=true&bg_color=00000000">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalom-calvin-dev&layout=compact&theme=default&hide_border=true&bg_color=00000000">
+</picture>
+
+---
+
 ## 💼 Professional Project Highlights
 
 Selected projects from my professional work at **Star Knowledge Ventures**. These are company engagements: the source code is **not publicly available**, and details are intentionally kept high-level.
